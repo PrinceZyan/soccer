@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+.headings {
+    font-style: italic;
+    color: cornflowerblue;
+    text-align: center;
+}
+.description {
+    font-style: italic;
+    color: cornflowerblue;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.soccerimage {
+    height: auto;
+    width: auto;
+    border: 20px solid cornflowerblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.soccernetimage {
+    height: auto;
+    width: auto;
+    border: 20px solid cornflowerblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.soccerteamimage {
+    height: auto;
+    width: auto;
+    border: 20px solid cornflowerblue;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+.messiimage {
+    height: auto;
+    width: auto;
+    border: 20px solid cornflowerblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
